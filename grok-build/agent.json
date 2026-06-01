@@ -3,7 +3,7 @@
   "name": "Grok Build",
   "version": "0.2.13",
   "description": "xAI's coding agent and CLI",
-  "website": "https://docs.x.ai/build/overview",
+  "website": "https://x.ai/cli",
   "authors": ["xAI"],
   "license": "proprietary",
   "distribution": {

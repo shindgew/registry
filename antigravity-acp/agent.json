@@ -1,0 +1,16 @@
+{
+  "id": "google-antigravity-acp",
+  "name": "Google Antigravity",
+  "version": "0.2.1",
+  "description": "Agent Client Protocol adapter that wraps the Google Antigravity CLI.",
+  "repository": "https://github.com/shindgew/agy-acp",
+  "authors": [
+    "shindgew"
+  ],
+  "license": "Apache-2.0",
+  "distribution": {
+    "npx": {
+      "package": "agy-acp@0.2.1"
+    }
+  }
+}
